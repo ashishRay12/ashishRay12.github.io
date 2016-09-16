@@ -11,7 +11,7 @@ categories:
 int main(){
 
 cout <<"hello world";
-return 0
+return 0;
 }
 
 ```
