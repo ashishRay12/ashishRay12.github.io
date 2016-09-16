@@ -1,3 +1,9 @@
+---
+layout: post
+title: Another sample
+categories:
+- blog
+---
 
 ```cpp
 #include<iostream>
