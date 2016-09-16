@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another sample
+title: hello world
 categories:
 - blog
 ---
